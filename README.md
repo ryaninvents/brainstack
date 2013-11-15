@@ -17,6 +17,12 @@ Brainstack is a simple command-line tool that lets you log your state of mind so
 | stack              | Show only the items relevant to your current thought.
 | throw              | Same as `stack`, only styled like a Java Exception.
 
+## installation
+
+```
+➜  ~  npm install -g git+https://github.com/ryanthejuggler/brainstack.git
+```
+
 ## usage
 
 To display the contents of your BrainStack:
