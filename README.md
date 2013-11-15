@@ -22,6 +22,7 @@ Brainstack is a simple command-line tool that lets you log your state of mind so
 ```
 ➜  ~  npm install -g git+https://github.com/ryanthejuggler/brainstack.git
 ```
+You might need `sudo` for this.
 
 ## usage
 
